@@ -2,7 +2,8 @@ package net.kyrushiqi.tutorialmod;
 
 import net.fabricmc.api.ModInitializer;
 
-import org.slf4j.Logger;
+import net.kyrushiqi.tutorialmod.item.ModItems;
+import org.slf4j.Logger; // interface -> the main user entry point of SLF4J API: https://www.slf4j.org
 import org.slf4j.LoggerFactory;
 
 public class TutorialMod implements ModInitializer {
@@ -16,5 +17,7 @@ public class TutorialMod implements ModInitializer {
 		// Proceed with mild caution.
 
 		//LOGGER.info("Hello Fabric world!");
+
+		ModItems.registerModItems();
 	}
 }
