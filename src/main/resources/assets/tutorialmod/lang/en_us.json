@@ -1,0 +1,7 @@
+{
+  "_comment": "Syntax: objectType.Mod_ID.object'sName: Item'sNameInGame",
+  "item.tutorialmod.ruby": "Ruby",
+  "item.tutorialmod.raw_ruby": "Raw Ruby",
+
+  "itemgroup.ruby": "Ruby Tutorial Group"
+}

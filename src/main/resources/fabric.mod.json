@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "tutorialmod",
 	"version": "${version}",
-	"name": "Tutorial Mod",
+	"name": "Kyrushiqi's TestMod",
 	"description": "This is a tutorial mod for Kyrushiqi to learn mc modding :)",
 	"authors": [
 		"Kyrushiqi!"
